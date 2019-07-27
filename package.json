@@ -1,0 +1,25 @@
+{
+  "name": "RWDPortfolio",
+  "version": "1.0.0",
+  "description": "Lab 04: RWD Portfolio # Lab 04: RWD Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptong19/RWDPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptong19/RWDPortfolio/issues"
+  },
+  "homepage": "https://github.com/ptong19/RWDPortfolio#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
